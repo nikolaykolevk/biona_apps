@@ -1,0 +1,9 @@
+[submodule "biona_core"]
+	path = biona_core
+	url = https://github.com/nikolaykolevk/biona_core.git
+[submodule "biona_hr"]
+	path = biona_hr
+	url = https://github.com/nikolaykolevk/biona_hr.git
+[submodule "biona_templates"]
+	path = biona_templates
+	url = https://github.com/nikolaykolevk/biona_templates.git
